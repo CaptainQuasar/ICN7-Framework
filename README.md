@@ -56,12 +56,10 @@ Feel free to fork this repository, create pull requests, or start discussions to
 
 ---
 
-## **Licensing**
+## Licensing
 This work is released under a **dual license**:
-- **MIT License**: For maximum usability and flexibility in practical applications.
-- **Creative Commons Attribution 4.0 International (CC BY 4.0)**: To ensure proper attribution while allowing broad usage.
-
-Please see the [LICENSE.md](./LICENSE.md) and [MIT_LICENSE](./MIT_LICENSE) files for details.
+- **MIT License**: For maximum usability and flexibility in practical applications. See the [MIT License](./MIT_LICENSE) for details.
+- **Creative Commons Attribution 4.0 International (CC BY 4.0)**: To ensure proper attribution while allowing broad usage. See the [CC BY 4.0 License](./CC_BY_4.0_LICENSE) for details.
 
 ---
 
